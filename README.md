@@ -1,4 +1,4 @@
-# Splash
+# SplashWater
 ![Imgur](https://i.imgur.com/NxRl8M8.png)
 
 ## Description
