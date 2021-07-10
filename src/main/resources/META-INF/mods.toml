@@ -6,13 +6,13 @@ issueTrackerURL="https://github.com/Mr-Awsaf/Splash/issues"
 [[mods]]
 modId="splash"
 version="${file.jarVersion}"
-displayName="Splash"
+displayName="Splash Water"
 updateJSONURL="https://raw.githubusercontent.com/Mr-Awsaf/Splash/main/update.json"
 displayURL=""
 logoFile="splash.png"
 credits="Thanks to MaroonShaded for helping with the code!"
 authors="Mr_Awsaf"
-description='''Splash is a simple mod that makes splash and drinkable water bottles useful. You can throw a splash water potion or dink a water bottle to
+description='''Splash Water is a simple mod that makes splash and drinkable water bottles useful. You can throw a splash water potion or dink a water bottle to
 extinguish yourslef from fire, works also in the nether!'''
 
 [[dependencies.splash]]
