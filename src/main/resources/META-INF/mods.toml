@@ -1,12 +1,13 @@
 modLoader="javafml"
-loaderVersion="[36,)"
 license="MIT"
+loaderVersion="[36,)"
+issueTrackerURL="https://github.com/Mr-Awsaf/Splash/issues"
 
 [[mods]]
 modId="splash"
 version="${file.jarVersion}"
 displayName="Splash"
-updateJSONURL=""
+updateJSONURL="https://raw.githubusercontent.com/Mr-Awsaf/Splash/master/update.json"
 displayURL=""
 logoFile="splash.png"
 credits="Thanks to MaroonShaded for helping with the code!"
