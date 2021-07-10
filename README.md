@@ -1,5 +1,5 @@
 # Splash
-![Image](https://i.imgur.com/UzpRDQW.png)
+![Imgur](https://i.imgur.com/NxRl8M8.png)
 
 ## Description
  Splash is a minecraft mod that makes splash water potions and water bottles useful!
