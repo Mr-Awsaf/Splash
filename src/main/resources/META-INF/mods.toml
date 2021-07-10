@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+modId="splash"
+version="${file.jarVersion}"
+displayName="Splash"
+updateJSONURL=""
+displayURL=""
+logoFile="splash.png"
+credits="Thanks to MaroonShaded for helping with the code!"
+authors="Mr_Awsaf"
+description='''Splash is a simple mod that makes splash and drinkable water bottles useful. You can throw a splash water potion or dink a water bottle to
+extinguish yourslef from fire, works also in the nether!'''
+
+[[dependencies.splash]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.splash]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"
